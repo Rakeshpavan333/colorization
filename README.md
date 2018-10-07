@@ -6,3 +6,7 @@ Given a grayscale (black and white) image as input, we shall attack the problem 
 hallucinating a plausible color version of the photograph.The problem we want to solve is a
 fully automatic approach to colorization devoid of any human interference.
 
+https://github.com/Rakeshpavan333/colorization/blob/master/Colorization.pdf
+
+
+
