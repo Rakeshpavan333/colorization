@@ -6,7 +6,7 @@
 hallucinating a plausible color version of the photograph.The problem we want to solve is a
 fully automatic approach to colorization devoid of any human interference. This project will also compare performances of different models and existing papers .
 
-https://github.com/Rakeshpavan333/colorization/blob/master/Colorization.pdf
+- Project Proposal: https://github.com/Rakeshpavan333/colorization/blob/master/Colorization.pdf
 
 ### Highlights 
 - Each pixel is assigned a color from the appropriate region using a
